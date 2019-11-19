@@ -1,0 +1,8 @@
+body {
+    background-color: salmon;
+}
+
+.your-class {
+    max-width: 600px;
+    margin: 0 auto;
+}
